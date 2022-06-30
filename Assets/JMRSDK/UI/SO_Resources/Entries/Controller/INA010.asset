@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -676653480, guid: d111f6bc56ed34a9ca892a0422896f4f, type: 3}
+  m_Name: INA010
+  m_EditorClassIdentifier: 
+  popUpId: INA010
+  dismiss_popUpIds:
+  - INA000
+  - INA001
+  - INA005
+  - INA006
+  - INA002
+  - INA003
+  - INA004
+  - INA007
+  - INA008
+  - INA009
+  prefabType: 3
+  behaviourType: 0
+  priority: 3
+  headertext: Virtual Controller Unavailable
+  headerIconPath: 
+  bodyText: Please run the Virtual Controller on your phone\n as shown below to continue.
+  bodyInfoGraphicPath: Art/VC_Disconnected_Image
+  interactions: []
+  isAutoClose: 0
+  followBehaviours: 1
+  popUpVisibleDuration: 0
+  transitionData:
+    useCommon: 1
+    startPosition: {x: 0, y: 510, z: 2.4}
+    targetPosition: {x: 0, y: 0, z: 2.4}
+    transitionDuration: 1
+    waitDuration: 3

@@ -1,0 +1,83 @@
+{
+    "toolboxes": {
+        "buttons": {
+            "id": "",
+            "type": "",
+            "title": "",
+            "description": "",
+            "_default": false,
+            "examples": []
+        }
+    },
+    "colors": [
+        {
+            "name": "PrimaryLayer",
+            "color": "#03007FFF"
+        },
+        {
+            "name": "SecondaryLayer",
+            "color": "#F4F2F2FF"
+        },
+        {
+            "name": "HoverLayer",
+            "color": "#727272FF"
+        },
+        {
+            "name": "BackgroundLayer",
+            "color": "#FFFFFFFF"
+        },
+        {
+            "name": "ErrorLayer",
+            "color": "#DA0023FF"
+        },
+        {
+            "name": "SurfaceLayer",
+            "color": "#EFEFEFFF"
+        },
+        {
+            "name": "PrimaryDisabledLayer",
+            "color": "#CCCCCCFF"
+        },
+        {
+            "name": "SecondaryDisabledLayer",
+            "color": "#D8D8D8FF"
+        },
+        {
+            "name": "PrimaryTextLayer",
+            "color": "#FFFFFFFF"
+        },
+        {
+            "name": "SecondaryTextLayer",
+            "color": "#262626FF"
+        },
+        {
+            "name": "BackgroundTextLayer",
+            "color": "#000000FF"
+        },
+        {
+            "name": "ErrorTextLayer",
+            "color": "#FFFFFFFF"
+        },
+        {
+            "name": "SurfaceTextLayer",
+            "color": "#000000FF"
+        },
+        {
+            "name": "DisabledTextLayer",
+            "color": "#727272FF"
+        }
+    ],
+    "icons": [
+        {
+            "title": "dark",
+            "type": "",
+            "icons": ""
+        },
+        {
+            "title": "light",
+            "type": "",
+            "icons": ""
+        }
+    ],
+    "SelectedIconSetPath": "Assets/TMRToolkit/DesignSystem/ThemeConfiguration/ScriptableObjects/ThemeDataSCRO.asset"
+}

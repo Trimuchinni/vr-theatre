@@ -1,0 +1,2 @@
+F:\Unity_projects\JMR_Pakka_VR\obj\Debug\Assembly-CSharp.csproj.AssemblyReference.cache
+F:\Unity_projects\JMR_Pakka_VR\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache

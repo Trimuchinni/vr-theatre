@@ -1,0 +1,53 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1792255761, guid: d111f6bc56ed34a9ca892a0422896f4f, type: 3}
+  m_Name: System UI Common Configs
+  m_EditorClassIdentifier: 
+  transitionData:
+    useCommon: 1
+    startPosition: {x: 0, y: 510, z: 2.4}
+    targetPosition: {x: 0, y: 0, z: 2.4}
+    transitionDuration: 1
+    waitDuration: 3
+  popupConfigDataContainer:
+  - type: 0
+    prefab: {fileID: 1786788506969150237, guid: 525a5879f68e8a64c97aec0604765a72,
+      type: 3}
+    prefabPath: Prefab/pf_ToastPopup
+    isPrefabLoaded: 0
+  - type: 1
+    prefab: {fileID: 5155596753520626271, guid: b61e274c96057784dbc29f059e0390ec,
+      type: 3}
+    prefabPath: Prefab/pf_FullSizePopup
+    isPrefabLoaded: 0
+  - type: 2
+    prefab: {fileID: 4032914640486998013, guid: 98f966d5ec248604698232884f46ce25,
+      type: 3}
+    prefabPath: Prefab/pf_FullSizePopup_WithImage
+    isPrefabLoaded: 0
+  - type: 3
+    prefab: {fileID: 4032914640486998013, guid: 40c2afe41e4d3f44e89cf18fd359cd0c,
+      type: 3}
+    prefabPath: Prefab/pf_FullSizePopup_NoButton
+    isPrefabLoaded: 0
+  - type: 4
+    prefab: {fileID: 4704655678457147249, guid: ff41eaf8eaed5b6469a93f4e87808c7e,
+      type: 3}
+    prefabPath: Prefab/pf_FullSizePopup_WithImageAtTop
+    isPrefabLoaded: 0
+  - type: 5
+    prefab: {fileID: 3671481611993685651, guid: 2d6f6f07e29c39643a4f42ece3b7d8d8,
+      type: 3}
+    prefabPath: Prefab/Custom_RecenterCanvas
+    isPrefabLoaded: 0
+  inputJsonString: 
+  outputJsonString: ' {"transitionData":{"useCommon":true,"startPosition":{"x":0.0,"y":510.0,"z":2.4000000953674318},"targetPosition":{"x":0.0,"y":0.0,"z":2.4000000953674318},"transitionDuration":1.0,"waitDuration":3.0},"popupConfigDataContainer":[{"type":0,"prefab":{"instanceID":24462},"prefabPath":"Prefab/pf_ToastPopup","isPrefabLoaded":false},{"type":1,"prefab":{"instanceID":24464},"prefabPath":"Prefab/pf_FullSizePopup","isPrefabLoaded":false},{"type":2,"prefab":{"instanceID":24466},"prefabPath":"Prefab/pf_FullSizePopup_WithImage","isPrefabLoaded":false},{"type":3,"prefab":{"instanceID":24468},"prefabPath":"Prefab/pf_FullSizePopup_NoButton","isPrefabLoaded":false},{"type":4,"prefab":{"instanceID":24470},"prefabPath":"Prefab/pf_FullSizePopup_WithImageAtTop","isPrefabLoaded":false},{"type":5,"prefab":{"instanceID":72580},"prefabPath":"Prefab/Custom_RecenterCanvas","isPrefabLoaded":false}]}'

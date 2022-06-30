@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -676653480, guid: d111f6bc56ed34a9ca892a0422896f4f, type: 3}
+  m_Name: INA011
+  m_EditorClassIdentifier: 
+  popUpId: INA011
+  dismiss_popUpIds:
+  - INA002
+  - INA003
+  - INA004
+  - INA005
+  - INA006
+  - INA007
+  - INA009
+  - INA010
+  prefabType: 4
+  behaviourType: 1
+  priority: 6
+  headertext: Switched to Gaze Control
+  headerIconPath: 
+  bodyText: Look around to move the pointer and hold to select
+  bodyInfoGraphicPath: Art/pointer_head_small
+  interactions: []
+  isAutoClose: 1
+  followBehaviours: 1
+  popUpVisibleDuration: 3
+  transitionData:
+    useCommon: 1
+    startPosition: {x: 0, y: 510, z: 2.4}
+    targetPosition: {x: 0, y: 0, z: 2.4}
+    transitionDuration: 1
+    waitDuration: 3

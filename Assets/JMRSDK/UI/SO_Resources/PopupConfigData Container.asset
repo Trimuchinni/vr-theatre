@@ -1,0 +1,107 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -432918026, guid: d111f6bc56ed34a9ca892a0422896f4f, type: 3}
+  m_Name: PopupConfigData Container
+  m_EditorClassIdentifier: 
+  popupConfigDataContainer:
+  - {fileID: 11400000, guid: d82c2b7b891ac8d4893bc412bb747b65, type: 2}
+  - {fileID: 11400000, guid: 98379947d55a55f4aa044d538b229c24, type: 2}
+  - {fileID: 11400000, guid: 636567965e2d0f94d9569b22073e3beb, type: 2}
+  - {fileID: 11400000, guid: 95eb26ada21ebc94ea563d2bbe08905d, type: 2}
+  - {fileID: 11400000, guid: dcf19adf10e752748ac5d1767b356ac4, type: 2}
+  - {fileID: 11400000, guid: e1638a39ba03bf54890527b45fa7897c, type: 2}
+  - {fileID: 11400000, guid: 2f4d35747efbff94da198830c5a21b53, type: 2}
+  - {fileID: 11400000, guid: 496bf7ecd77868f4a878c332e1215f30, type: 2}
+  - {fileID: 11400000, guid: 50cd2a87604a79d4b959d7263abde10e, type: 2}
+  - {fileID: 11400000, guid: 93dd436535a797a4aa47ac34647efdb3, type: 2}
+  - {fileID: 11400000, guid: 1b916b040ab96114e8a7ea869093c034, type: 2}
+  - {fileID: 11400000, guid: 69db62fab3d29044fb70852ad6f02ea6, type: 2}
+  - {fileID: 11400000, guid: 92afed95bc889bc409c308f9bb4cdb35, type: 2}
+  - {fileID: 11400000, guid: addd895372934db409d256fed3768295, type: 2}
+  - {fileID: 11400000, guid: 2c10b201497f7704faf2b17946b76109, type: 2}
+  - {fileID: 11400000, guid: 1b9085f906635b34ea6bfb2fed67a726, type: 2}
+  - {fileID: 11400000, guid: 1f7feaccb90b499429b50affc808c7ee, type: 2}
+  - {fileID: 11400000, guid: db117de2bc0a99f469cf356fb08e5b3b, type: 2}
+  - {fileID: 11400000, guid: cd729a6920d8e2c4e84edd0994438228, type: 2}
+  - {fileID: 11400000, guid: b5bf30cc8adcf3849ba4f6b92ae88268, type: 2}
+  - {fileID: 11400000, guid: 911c2767aa9a309428e654c6a57416e5, type: 2}
+  - {fileID: 11400000, guid: 0bf95ec1460c49042b9a3f357e4dd2c5, type: 2}
+  - {fileID: 11400000, guid: aa9f26e652446fc4bb3b41b35bb18098, type: 2}
+  - {fileID: 11400000, guid: 8bd8b6972be972541ae4bc877a5affb3, type: 2}
+  - {fileID: 11400000, guid: a9a1016959d7cfe49afe7852beb8eb06, type: 2}
+  - {fileID: 11400000, guid: 2a709d910cc346c488621a014605acbb, type: 2}
+  - {fileID: 11400000, guid: 229f4402acaa9bb4dae397c64bd6b428, type: 2}
+  - {fileID: 11400000, guid: ecf5596491f04294b9a3155ed4a1d1c8, type: 2}
+  - {fileID: 11400000, guid: 44502b4398d343147b140a8b676f6624, type: 2}
+  jsonInput: 
+  jsonOutput: ' {"popupConfigData":[{"popUpId":"DES001","dismiss_popUpIds":["INA002","INA003","INA004"],"prefabType":1,"behaviourType":3,"priority":0,"headertext":"Service
+    Bind Failed","headerIconPath":"Art/JioGlassNotify","bodyText":"Please replug
+    your JioGlass and try again.","bodyInfoGraphicPath":"","interactions":[{"type":0,"interactionString":"Okay","interactionKey":"","dismiss":true,"showButtonAppearAnimation":false}],"isAutoClose":false,"followBehaviours":1,"popUpVisibleDuration":0.0,"transitionData":{"useCommon":true,"startPosition":{"x":0.0,"y":0.0,"z":0.0},"targetPosition":{"x":0.0,"y":0.0,"z":0.0},"transitionDuration":0.0,"waitDuration":0.0}},{"popUpId":"DES002","dismiss_popUpIds":["INA002","INA003","INA004"],"prefabType":1,"behaviourType":3,"priority":0,"headertext":"Service
+    Killed","headerIconPath":"Art/JioGlassNotify","bodyText":"Please replug your
+    JioGlass and try again.","bodyInfoGraphicPath":"","interactions":[{"type":0,"interactionString":"Okay","interactionKey":"","dismiss":true,"showButtonAppearAnimation":false}],"isAutoClose":false,"followBehaviours":1,"popUpVisibleDuration":0.0,"transitionData":{"useCommon":true,"startPosition":{"x":0.0,"y":0.0,"z":0.0},"targetPosition":{"x":0.0,"y":0.0,"z":0.0},"transitionDuration":0.0,"waitDuration":0.0}},{"popUpId":"DES004","dismiss_popUpIds":["INA002","INA003","INA004"],"prefabType":1,"behaviourType":3,"priority":0,"headertext":"No
+    Companion App","headerIconPath":"Art/JioGlassNotify","bodyText":"Please replug
+    your JioGlass and try again.","bodyInfoGraphicPath":"","interactions":[{"type":0,"interactionString":"Okay","interactionKey":"","dismiss":true,"showButtonAppearAnimation":false}],"isAutoClose":false,"followBehaviours":1,"popUpVisibleDuration":0.0,"transitionData":{"useCommon":true,"startPosition":{"x":0.0,"y":0.0,"z":0.0},"targetPosition":{"x":0.0,"y":0.0,"z":0.0},"transitionDuration":0.0,"waitDuration":0.0}},{"popUpId":"INA000","dismiss_popUpIds":["INA001","INA002","INA003","INA004","INA006","INA007","INA008","INA009","INA010"],"prefabType":1,"behaviourType":0,"priority":3,"headertext":"Controller
+    Connected\\n <sub>Switching to Pointer mode.</sub>","headerIconPath":"Art/ControllerGreen","bodyText":"","bodyInfoGraphicPath":"","interactions":[],"isAutoClose":false,"followBehaviours":1,"popUpVisibleDuration":0.0,"transitionData":{"useCommon":true,"startPosition":{"x":0.0,"y":510.0,"z":2.4000000953674318},"targetPosition":{"x":0.0,"y":0.0,"z":2.4000000953674318},"transitionDuration":1.0,"waitDuration":3.0}},{"popUpId":"INA001","dismiss_popUpIds":["INA002","INA003","INA004","INA000","INA005","INA006","INA007","INA008","INA009","INA010"],"prefabType":1,"behaviourType":0,"priority":3,"headertext":"Controller
+    Disconnected\\n <sub>Switching to Gaze mode.</sub>","headerIconPath":"Art/ControllerRed","bodyText":"","bodyInfoGraphicPath":"","interactions":[],"isAutoClose":false,"followBehaviours":1,"popUpVisibleDuration":0.0,"transitionData":{"useCommon":true,"startPosition":{"x":0.0,"y":510.0,"z":2.4000000953674318},"targetPosition":{"x":0.0,"y":0.0,"z":2.4000000953674318},"transitionDuration":1.0,"waitDuration":3.0}},{"popUpId":"INA002","dismiss_popUpIds":["INA003","INA004","INA007","INA008","INA009","INA010"],"prefabType":1,"behaviourType":0,"priority":5,"headertext":"JioGlass
+    Controller Battery Low","headerIconPath":"Art/Controller20%","bodyText":"Please
+    replace batteries to avoid your JioGlass \\n Controller from getting disconnected.","bodyInfoGraphicPath":"","interactions":[],"isAutoClose":false,"followBehaviours":1,"popUpVisibleDuration":0.0,"transitionData":{"useCommon":true,"startPosition":{"x":0.0,"y":510.0,"z":2.4000000953674318},"targetPosition":{"x":0.0,"y":0.0,"z":2.4000000953674318},"transitionDuration":1.0,"waitDuration":3.0}},{"popUpId":"INA003","dismiss_popUpIds":["INA002","INA004","INA007","INA008","INA009","INA010"],"prefabType":1,"behaviourType":2,"priority":5,"headertext":"JioGlass
+    Controller Battery Too Low","headerIconPath":"Art/Controller10%","bodyText":"Please
+    replace batteries to avoid your JioGlass \\n Controller from getting disconnected.","bodyInfoGraphicPath":"","interactions":[{"type":0,"interactionString":"Okay","interactionKey":"","dismiss":true,"showButtonAppearAnimation":false}],"isAutoClose":false,"followBehaviours":2,"popUpVisibleDuration":0.0,"transitionData":{"useCommon":true,"startPosition":{"x":0.0,"y":0.0,"z":0.0},"targetPosition":{"x":0.0,"y":0.0,"z":0.0},"transitionDuration":0.0,"waitDuration":0.0}},{"popUpId":"INA004","dismiss_popUpIds":["INA002","INA003","INA007","INA008","INA009","INA010"],"prefabType":1,"behaviourType":3,"priority":5,"headertext":"JioGlass
+    Controller Battery Critically Low","headerIconPath":"Art/ControllerRed","bodyText":"Please
+    replace batteries to avoid your JioGlass \\n Controller from getting disconnected.","bodyInfoGraphicPath":"","interactions":[],"isAutoClose":false,"followBehaviours":1,"popUpVisibleDuration":0.0,"transitionData":{"useCommon":true,"startPosition":{"x":0.0,"y":0.0,"z":0.0},"targetPosition":{"x":0.0,"y":0.0,"z":0.0},"transitionDuration":0.0,"waitDuration":0.0}},{"popUpId":"DEA016","dismiss_popUpIds":[],"prefabType":1,"behaviourType":3,"priority":1,"headertext":"JioGlass
+    Non-Genuine","headerIconPath":"Art/JioGlassNotify","bodyText":"Unable to verify
+    that this JioGlass is genuine.\\n Please buy genuine JioGlass device only.","bodyInfoGraphicPath":"","interactions":[],"isAutoClose":false,"followBehaviours":1,"popUpVisibleDuration":0.0,"transitionData":{"useCommon":true,"startPosition":{"x":0.0,"y":0.0,"z":0.0},"targetPosition":{"x":0.0,"y":0.0,"z":0.0},"transitionDuration":0.0,"waitDuration":0.0}},{"popUpId":"DEA032","dismiss_popUpIds":[],"prefabType":1,"behaviourType":3,"priority":1,"headertext":"Authentication
+    Failed","headerIconPath":"Art/WarningRed","bodyText":"Please make sure you are
+    logged in and\\n have completed device setup.","bodyInfoGraphicPath":"","interactions":[],"isAutoClose":false,"followBehaviours":1,"popUpVisibleDuration":0.0,"transitionData":{"useCommon":true,"startPosition":{"x":0.0,"y":0.0,"z":0.0},"targetPosition":{"x":0.0,"y":0.0,"z":0.0},"transitionDuration":0.0,"waitDuration":0.0}},{"popUpId":"DEA064","dismiss_popUpIds":[],"prefabType":1,"behaviourType":3,"priority":1,"headertext":"Firmware
+    Update Required","headerIconPath":"Art/WarningRed","bodyText":"Please update
+    your firmware.","bodyInfoGraphicPath":"","interactions":[{"type":0,"interactionString":"Okay","interactionKey":"","dismiss":true,"showButtonAppearAnimation":false}],"isAutoClose":false,"followBehaviours":1,"popUpVisibleDuration":0.0,"transitionData":{"useCommon":true,"startPosition":{"x":0.0,"y":0.0,"z":0.0},"targetPosition":{"x":0.0,"y":0.0,"z":0.0},"transitionDuration":0.0,"waitDuration":0.0}},{"popUpId":"DEA128","dismiss_popUpIds":[],"prefabType":1,"behaviourType":3,"priority":1,"headertext":"Internet
+    Connection Required","headerIconPath":"Art/JioGlassNotify","bodyText":"Please
+    ensure that you are connected to an active\\nInternet connection to complete
+    setting up your\\nJioGlass.","bodyInfoGraphicPath":"","interactions":[],"isAutoClose":false,"followBehaviours":1,"popUpVisibleDuration":0.0,"transitionData":{"useCommon":true,"startPosition":{"x":0.0,"y":0.0,"z":0.0},"targetPosition":{"x":0.0,"y":0.0,"z":0.0},"transitionDuration":0.0,"waitDuration":0.0}},{"popUpId":"DEA002","dismiss_popUpIds":[],"prefabType":1,"behaviourType":3,"priority":1,"headertext":"Could
+    Not Connect JioGlass","headerIconPath":"Art/JioGlassNotify","bodyText":"Please
+    try replugging your JioGlass.","bodyInfoGraphicPath":"","interactions":[],"isAutoClose":false,"followBehaviours":1,"popUpVisibleDuration":0.0,"transitionData":{"useCommon":true,"startPosition":{"x":0.0,"y":0.0,"z":0.0},"targetPosition":{"x":0.0,"y":0.0,"z":0.0},"transitionDuration":0.0,"waitDuration":0.0}},{"popUpId":"PLA000","dismiss_popUpIds":["PLA001","PLA002"],"prefabType":1,"behaviourType":0,"priority":4,"headertext":"Phone
+    Battery Low","headerIconPath":"Art/Battery","bodyText":"Please charge your phone
+    to continue using\\n JioGlass uninterrupted.","bodyInfoGraphicPath":"","interactions":[],"isAutoClose":false,"followBehaviours":0,"popUpVisibleDuration":0.0,"transitionData":{"useCommon":true,"startPosition":{"x":0.0,"y":510.0,"z":2.5},"targetPosition":{"x":0.0,"y":0.0,"z":2.5},"transitionDuration":1.0,"waitDuration":3.0}},{"popUpId":"PLA001","dismiss_popUpIds":["PLA000","PLA002"],"prefabType":1,"behaviourType":2,"priority":4,"headertext":"Phone
+    Battery \\n Too Low","headerIconPath":"Art/BatteryLow","bodyText":"Please charge
+    your phone to continue using\\n JioGlass uninterrupted.","bodyInfoGraphicPath":"","interactions":[{"type":0,"interactionString":"Okay","interactionKey":"","dismiss":true,"showButtonAppearAnimation":false}],"isAutoClose":false,"followBehaviours":2,"popUpVisibleDuration":0.0,"transitionData":{"useCommon":true,"startPosition":{"x":0.0,"y":510.0,"z":2.5},"targetPosition":{"x":0.0,"y":0.0,"z":2.5},"transitionDuration":1.0,"waitDuration":3.0}},{"popUpId":"PLA002","dismiss_popUpIds":["PLA000","PLA001"],"prefabType":1,"behaviourType":3,"priority":4,"headertext":"Phone
+    Battery \\n Critically Low","headerIconPath":"Art/BatteryVeryLow","bodyText":"Please
+    charge your phone to continue using\\n JioGlass uninterrupted.","bodyInfoGraphicPath":"","interactions":[],"isAutoClose":false,"followBehaviours":1,"popUpVisibleDuration":0.0,"transitionData":{"useCommon":true,"startPosition":{"x":0.0,"y":510.0,"z":2.5},"targetPosition":{"x":0.0,"y":0.0,"z":2.5},"transitionDuration":1.0,"waitDuration":3.0}},{"popUpId":"PLA003","dismiss_popUpIds":["PLA004","PLA005"],"prefabType":1,"behaviourType":0,"priority":4,"headertext":"Compute
+    Unit Battery \\n Low","headerIconPath":"Art/Battery","bodyText":"Please charge
+    your Compute Unit to continue using\\n JioGlass uninterrupted.","bodyInfoGraphicPath":"","interactions":[],"isAutoClose":false,"followBehaviours":1,"popUpVisibleDuration":0.0,"transitionData":{"useCommon":true,"startPosition":{"x":0.0,"y":510.0,"z":2.5},"targetPosition":{"x":0.0,"y":0.0,"z":2.5},"transitionDuration":1.0,"waitDuration":3.0}},{"popUpId":"PLA004","dismiss_popUpIds":["PLA003","PLA005"],"prefabType":1,"behaviourType":2,"priority":4,"headertext":"Compute
+    Unit Battery \\n Too Low","headerIconPath":"Art/BatteryLow","bodyText":"Please
+    charge your Compute Unit to continue using\\n JioGlass uninterrupted.","bodyInfoGraphicPath":"","interactions":[{"type":0,"interactionString":"Okay","interactionKey":"","dismiss":true,"showButtonAppearAnimation":false}],"isAutoClose":false,"followBehaviours":2,"popUpVisibleDuration":0.0,"transitionData":{"useCommon":true,"startPosition":{"x":0.0,"y":510.0,"z":2.5},"targetPosition":{"x":0.0,"y":0.0,"z":2.5},"transitionDuration":1.0,"waitDuration":3.0}},{"popUpId":"PLA005","dismiss_popUpIds":["PLA003","PLA004"],"prefabType":1,"behaviourType":3,"priority":4,"headertext":"Compute
+    Unit Battery \\n Critically Low","headerIconPath":"Art/BatteryVeryLow","bodyText":"We
+    have paused your JioGlass experience so that you can charge your \\ndevice and
+    start using device again.","bodyInfoGraphicPath":"","interactions":[],"isAutoClose":false,"followBehaviours":1,"popUpVisibleDuration":0.0,"transitionData":{"useCommon":true,"startPosition":{"x":0.0,"y":510.0,"z":2.5},"targetPosition":{"x":0.0,"y":0.0,"z":2.5},"transitionDuration":1.0,"waitDuration":3.0}},{"popUpId":"TRA004","dismiss_popUpIds":[],"prefabType":1,"behaviourType":3,"priority":1,"headertext":"Tracking
+    Lost","headerIconPath":"Art/JioGlassNotify","bodyText":"Please replug your JioGlass
+    and try again.","bodyInfoGraphicPath":"","interactions":[],"isAutoClose":false,"followBehaviours":1,"popUpVisibleDuration":0.0,"transitionData":{"useCommon":true,"startPosition":{"x":0.0,"y":0.0,"z":0.0},"targetPosition":{"x":0.0,"y":0.0,"z":0.0},"transitionDuration":0.0,"waitDuration":0.0}},{"popUpId":"INA005","dismiss_popUpIds":["INA006","INA007","INA008","INA009","INA010"],"prefabType":1,"behaviourType":1,"priority":6,"headertext":"Calibrate
+    JioGlass Controller","headerIconPath":"","bodyText":"Point your controller forward
+    and \\n hold <sprite name=\"SelectButton\"> button to recenter.\\n\\nPress Okay
+    once calibrated.","bodyInfoGraphicPath":"","interactions":[{"type":0,"interactionString":"Okay","interactionKey":"","dismiss":true,"showButtonAppearAnimation":false}],"isAutoClose":false,"followBehaviours":2,"popUpVisibleDuration":0.0,"transitionData":{"useCommon":true,"startPosition":{"x":0.0,"y":0.0,"z":0.0},"targetPosition":{"x":0.0,"y":0.0,"z":0.0},"transitionDuration":0.0,"waitDuration":0.0}},{"popUpId":"INA006","dismiss_popUpIds":["INA005","INA007","INA008","INA009","INA010"],"prefabType":2,"behaviourType":2,"priority":6,"headertext":"Reset
+    Pointer","headerIconPath":"","bodyText":"Your ray pointer is away from viewing
+    area.\\n\\n Point your JioGlass controller forward and hold the highlighted button
+    for one second to recenter.","bodyInfoGraphicPath":"Art/JG_Controller","interactions":[{"type":0,"interactionString":"Okay","interactionKey":"","dismiss":true,"showButtonAppearAnimation":false},{"type":3,"interactionString":"","interactionKey":"Don''t
+    show this again ","dismiss":false,"showButtonAppearAnimation":false}],"isAutoClose":false,"followBehaviours":2,"popUpVisibleDuration":0.0,"transitionData":{"useCommon":true,"startPosition":{"x":0.0,"y":0.0,"z":0.0},"targetPosition":{"x":0.0,"y":0.0,"z":0.0},"transitionDuration":0.0,"waitDuration":0.0}},{"popUpId":"INA007","dismiss_popUpIds":["INA000","INA001","INA005","INA006","INA009","INA002","INA003","INA004"],"prefabType":2,"behaviourType":2,"priority":6,"headertext":"Reset
+    Pointer","headerIconPath":"","bodyText":"Your ray pointer is away from viewing
+    area.\\n\\nHold your phone facing up and pointing forwards. Please press highlighted
+    button for one second to recenter.","bodyInfoGraphicPath":"Art/MobileImage","interactions":[{"type":0,"interactionString":"Okay","interactionKey":"","dismiss":true,"showButtonAppearAnimation":false},{"type":3,"interactionString":"","interactionKey":"Don''t
+    show this again ","dismiss":false,"showButtonAppearAnimation":false}],"isAutoClose":false,"followBehaviours":2,"popUpVisibleDuration":0.0,"transitionData":{"useCommon":true,"startPosition":{"x":0.0,"y":0.0,"z":0.0},"targetPosition":{"x":0.0,"y":0.0,"z":0.0},"transitionDuration":0.0,"waitDuration":0.0}},{"popUpId":"INA008","dismiss_popUpIds":["INA000","INA001","INA005","INA002","INA006","INA003","INA004","INA007","INA009","INA010"],"prefabType":0,"behaviourType":0,"priority":3,"headertext":"Controlpad
+    successfully connected.","headerIconPath":"Art/GreenDots","bodyText":"","bodyInfoGraphicPath":"","interactions":[],"isAutoClose":false,"followBehaviours":1,"popUpVisibleDuration":0.0,"transitionData":{"useCommon":true,"startPosition":{"x":0.0,"y":510.0,"z":2.4000000953674318},"targetPosition":{"x":0.0,"y":0.0,"z":2.4000000953674318},"transitionDuration":1.0,"waitDuration":3.0}},{"popUpId":"INA009","dismiss_popUpIds":["INA000","INA001","INA005","INA006","INA007","INA002","INA003","INA004"],"prefabType":2,"behaviourType":2,"priority":3,"headertext":"Reset
+    Pointer","headerIconPath":"","bodyText":"Hold your phone facing up and pointing
+    forwards. Then press &\\n hold the highlighted button for one second to reset
+    the pointer.\\n\\nClick okay once done.","bodyInfoGraphicPath":"Art/MobileImage","interactions":[{"type":0,"interactionString":"Okay","interactionKey":"","dismiss":true,"showButtonAppearAnimation":false}],"isAutoClose":false,"followBehaviours":2,"popUpVisibleDuration":0.0,"transitionData":{"useCommon":true,"startPosition":{"x":0.0,"y":510.0,"z":2.4000000953674318},"targetPosition":{"x":0.0,"y":0.0,"z":2.4000000953674318},"transitionDuration":1.0,"waitDuration":3.0}},{"popUpId":"INA010","dismiss_popUpIds":["INA000","INA001","INA005","INA006","INA002","INA003","INA004","INA007","INA008","INA009"],"prefabType":3,"behaviourType":3,"priority":3,"headertext":"Virtual
+    Controller Unavailable","headerIconPath":"","bodyText":"Please run the Virtual
+    Controller on your phone\\n as shown below to continue.","bodyInfoGraphicPath":"Art/VC_Disconnected_Image","interactions":[],"isAutoClose":false,"followBehaviours":1,"popUpVisibleDuration":0.0,"transitionData":{"useCommon":true,"startPosition":{"x":0.0,"y":510.0,"z":2.4000000953674318},"targetPosition":{"x":0.0,"y":0.0,"z":2.4000000953674318},"transitionDuration":1.0,"waitDuration":3.0}},{"popUpId":"INA011","dismiss_popUpIds":["INA002","INA003","INA004","INA005","INA006","INA007","INA009"],"prefabType":4,"behaviourType":1,"priority":6,"headertext":"Switched
+    to Gaze Control","headerIconPath":"","bodyText":"Look around to move the pointer
+    and hold to select","bodyInfoGraphicPath":"Art/pointer_head_small","interactions":[],"isAutoClose":true,"followBehaviours":1,"popUpVisibleDuration":3.0,"transitionData":{"useCommon":true,"startPosition":{"x":0.0,"y":510.0,"z":2.4000000953674318},"targetPosition":{"x":0.0,"y":0.0,"z":2.4000000953674318},"transitionDuration":1.0,"waitDuration":3.0}},{"popUpId":"INA012","dismiss_popUpIds":["INA002","INA003","INA004","INA005","INA006","INA007","INA009","INA013"],"prefabType":0,"behaviourType":0,"priority":3,"headertext":"Switched
+    to Gaze pointer","headerIconPath":"Art/Head_Icon","bodyText":"","bodyInfoGraphicPath":"","interactions":[],"isAutoClose":true,"followBehaviours":1,"popUpVisibleDuration":3.0,"transitionData":{"useCommon":true,"startPosition":{"x":0.0,"y":510.0,"z":2.4000000953674318},"targetPosition":{"x":0.0,"y":0.0,"z":2.4000000953674318},"transitionDuration":1.0,"waitDuration":3.0}},{"popUpId":"INA013","dismiss_popUpIds":["INA002","INA003","INA004","INA005","INA006","INA007","INA009","INA012","INA011"],"prefabType":0,"behaviourType":0,"priority":3,"headertext":"Switched
+    to Controller Pointer","headerIconPath":"Art/Controller_Icon","bodyText":"","bodyInfoGraphicPath":"","interactions":[],"isAutoClose":true,"followBehaviours":1,"popUpVisibleDuration":3.0,"transitionData":{"useCommon":true,"startPosition":{"x":0.0,"y":510.0,"z":2.4000000953674318},"targetPosition":{"x":0.0,"y":0.0,"z":2.4000000953674318},"transitionDuration":1.0,"waitDuration":3.0}}]}'

@@ -1,0 +1,1388 @@
+fileFormatVersion: 2
+guid: 5865dd190afce5442941e5f58845809e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1871454365446325388
+    second: Button_Mask
+  - first:
+      213: 7492640298089698142
+    second: Button_Mask
+  - first:
+      213: -4640330509532052334
+    second: Checkbox_Plate1
+  - first:
+      213: -8578271370445343074
+    second: CheckBox Mask
+  - first:
+      213: 2023271933542497938
+    second: Button_Glow
+  - first:
+      213: -6031442867046419024
+    second: Checkbox_tick
+  - first:
+      213: 4050377478568521116
+    second: CheckBox_Texture
+  - first:
+      213: 86950127826546775
+    second: Button_Plate
+  - first:
+      213: 7492640298089698142
+    second: Circle_Radio
+  - first:
+      213: -49688392737679028
+    second: Space_mask
+  - first:
+      213: 8305345774195920952
+    second: Button_Glow
+  - first:
+      213: 2905905011506562312
+    second: Tick_Icon
+  - first:
+      213: -7348596064645043917
+    second: UI_SpriteSheet_10
+  - first:
+      213: 5472218031393722235
+    second: Close_icon
+  - first:
+      213: -5000637242463785281
+    second: Mask_Circle_radio
+  - first:
+      213: -1325665693977072079
+    second: 9 Slice 20Px
+  - first:
+      213: 3151376211438112140
+    second: RadioGlow
+  - first:
+      213: 3649387568146861949
+    second: RadioMask
+  - first:
+      213: 2659235967192917165
+    second: SpaceMask
+  - first:
+      213: 9098263978044747400
+    second: Button_Mask
+  - first:
+      213: 882115495372157852
+    second: Radio_Plate
+  - first:
+      213: -6313002280704479065
+    second: Radio_Plate_
+  - first:
+      213: 6817761710783551242
+    second: KeyBoard
+  - first:
+      213: -6579913433095614499
+    second: UI_SpriteSheet_15
+  - first:
+      213: -4049794993848228164
+    second: UI_SpriteSheet_16
+  - first:
+      213: 9004074117919930418
+    second: Up_Icon
+  - first:
+      213: 1477438418901871767
+    second: UI_SpriteSheet_18
+  - first:
+      213: 1268646239008624482
+    second: UI_SpriteSheet_19
+  - first:
+      213: 8565959657579222278
+    second: Spacebig_mask
+  - first:
+      213: -7763049976123486877
+    second: Space Plate
+  - first:
+      213: 8596820662937834437
+    second: Space_Mask_1
+  - first:
+      213: 6460761068588708507
+    second: Big_Circle
+  - first:
+      213: -3007662718443921088
+    second: MEdiumCircle
+  - first:
+      213: -6992997975072326288
+    second: BigRadioGlow
+  - first:
+      213: -4256266044197491115
+    second: Big RadioPlatemask
+  - first:
+      213: 2737534504613840763
+    second: Big Radio Plate
+  - first:
+      213: -6983555116808857366
+    second: UI_SpriteSheet_28
+  - first:
+      213: -6782912746372111564
+    second: SearchIcon
+  - first:
+      213: -8601288329423459297
+    second: 9 Slice 10px
+  - first:
+      213: 1218546615228221309
+    second: SearchGlow
+  - first:
+      213: -2129506965007406800
+    second: DialoguePlate
+  - first:
+      213: 810941878276341394
+    second: UI_SpriteSheet_33
+  - first:
+      213: -4696077939954729438
+    second: SearchMask
+  - first:
+      213: -8630631327294278542
+    second: UI_SpriteSheet_35
+  - first:
+      213: -549899294674729541
+    second: SearchPanel
+  - first:
+      213: 7756597199803532721
+    second: KnobGlow
+  - first:
+      213: -7671245474558137409
+    second: Panel Slider
+  - first:
+      213: 6562571674167009759
+    second: Know Circle
+  - first:
+      213: 4432181213251285642
+    second: UI_SpriteSheet_40
+  - first:
+      213: 8325030232146045142
+    second: Circle_Knob
+  - first:
+      213: 6738298383906633207
+    second: KnobMask
+  - first:
+      213: 3320256117274126100
+    second: Slider
+  - first:
+      213: -8182242825875463278
+    second: ImageRef
+  - first:
+      213: -550916401680331861
+    second: Sliderr2
+  - first:
+      213: 4932546068873987572
+    second: Slider Mask
+  - first:
+      213: -799520452015312401
+    second: Button Glow
+  - first:
+      213: -8144013303045208290
+    second: Mask
+  - first:
+      213: -8088085319119760236
+    second: UI_SpriteSheet_49
+  - first:
+      213: 86950127826546775
+    second: Button_Mask
+  - first:
+      213: 7481308519805845965
+    second: UI_SpriteSheet_0
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Circle_Radio
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 1909
+        width: 94
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e53d96547a43bf760800000000000000
+      internalID: 7492640298089698142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mask_Circle_radio
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 1911
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbe6b582cea2a9ab0800000000000000
+      internalID: -5000637242463785281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 9 Slice 20Px
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 1979
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13e2393331a4a9de0800000000000000
+      internalID: -1325665693977072079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RadioGlow
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 1886
+        width: 144
+        height: 144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8d8264b7ffebbb20800000000000000
+      internalID: 3151376211438112140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RadioMask
+      rect:
+        serializedVersion: 2
+        x: 899
+        y: 1911
+        width: 104
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7fce1f68aa35a230800000000000000
+      internalID: 3649387568146861949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpaceMask
+      rect:
+        serializedVersion: 2
+        x: 1085
+        y: 1917
+        width: 482
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da4e97ed50187e420800000000000000
+      internalID: 2659235967192917165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button_Mask
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 1877
+        width: 312
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88ee61422e6834e70800000000000000
+      internalID: 9098263978044747400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Space_mask
+      rect:
+        serializedVersion: 2
+        x: 1627
+        y: 1917
+        width: 330
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4919698ba87f4ff0800000000000000
+      internalID: -49688392737679028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button_Glow
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 1582
+        width: 394
+        height: 174
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8305dbf5af3824370800000000000000
+      internalID: 8305345774195920952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tick_Icon
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 1845
+        width: 50
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80540e93639d35820800000000000000
+      internalID: 2905905011506562312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_SpriteSheet_10
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 1771
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 339aff050da840a90800000000000000
+      internalID: -7348596064645043917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Close_icon
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 1819
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7fc5b67e4931fb40800000000000000
+      internalID: 5472218031393722235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Radio_Plate
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 1775
+        width: 98
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9376809e57ed3c00800000000000000
+      internalID: 882115495372157852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Radio_Plate_
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 1767
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a0f0689fd5b368a0800000000000000
+      internalID: -6313002280704479065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KeyBoard
+      rect:
+        serializedVersion: 2
+        x: 1325
+        y: 1583
+        width: 692
+        height: 273
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a075386672e8d9e50800000000000000
+      internalID: 6817761710783551242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_SpriteSheet_15
+      rect:
+        serializedVersion: 2
+        x: 1109
+        y: 1741
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddfc38f28937fa4a0800000000000000
+      internalID: -6579913433095614499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_SpriteSheet_16
+      rect:
+        serializedVersion: 2
+        x: 1167
+        y: 1741
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb6658ae8ec3cc7c0800000000000000
+      internalID: -4049794993848228164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Up_Icon
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 1677
+        width: 40
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 238f7e164b5e4fc70800000000000000
+      internalID: 9004074117919930418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_SpriteSheet_18
+      rect:
+        serializedVersion: 2
+        x: 975
+        y: 1677
+        width: 28
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79c29280a6ae08410800000000000000
+      internalID: 1477438418901871767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_SpriteSheet_19
+      rect:
+        serializedVersion: 2
+        x: 1045
+        y: 1683
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26f8eb568032b9110800000000000000
+      internalID: 1268646239008624482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spacebig_mask
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 1529
+        width: 694
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60516569ce660e670800000000000000
+      internalID: 8565959657579222278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Space Plate
+      rect:
+        serializedVersion: 2
+        x: 1331
+        y: 1469
+        width: 336
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36d0e875d2b144490800000000000000
+      internalID: -7763049976123486877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Space_Mask_1
+      rect:
+        serializedVersion: 2
+        x: 1701
+        y: 1469
+        width: 336
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c3d52458da0e4770800000000000000
+      internalID: 8596820662937834437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Big_Circle
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 1089
+        width: 386
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9237e716fb39a950800000000000000
+      internalID: 6460761068588708507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MEdiumCircle
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 1143
+        width: 330
+        height: 332
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 041e6fe51b2a246d0800000000000000
+      internalID: -3007662718443921088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BigRadioGlow
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 1006
+        width: 440
+        height: 440
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07db9c46461e3fe90800000000000000
+      internalID: -6992997975072326288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Big RadioPlatemask
+      rect:
+        serializedVersion: 2
+        x: 1405
+        y: 1027
+        width: 390
+        height: 390
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55e2d0e5594bee4c0800000000000000
+      internalID: -4256266044197491115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Big Radio Plate
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 663
+        width: 390
+        height: 388
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7702ebb02dadf520800000000000000
+      internalID: 2737534504613840763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_SpriteSheet_28
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 945
+        width: 144
+        height: 144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae81f392f9d651f90800000000000000
+      internalID: -6983555116808857366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SearchIcon
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 963
+        width: 54
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 433650a6bc04ed1a0800000000000000
+      internalID: -6782912746372111564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 9 Slice 10px
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 855
+        width: 54
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1c600206d512a880800000000000000
+      internalID: -8601288329423459297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SearchGlow
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 794
+        width: 527
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d77ceeeb0b529e010800000000000000
+      internalID: 1218546615228221309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DialoguePlate
+      rect:
+        serializedVersion: 2
+        x: 1533
+        y: 739
+        width: 478
+        height: 186
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 039630ca2b87272e0800000000000000
+      internalID: -2129506965007406800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_SpriteSheet_33
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 589
+        width: 306
+        height: 134
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29e362c775b014b00800000000000000
+      internalID: 810941878276341394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SearchMask
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 693
+        width: 482
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22e33779efd24deb0800000000000000
+      internalID: -4696077939954729438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_SpriteSheet_35
+      rect:
+        serializedVersion: 2
+        x: 1535
+        y: 633
+        width: 482
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 274344de886d93880800000000000000
+      internalID: -8630631327294278542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SearchPanel
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 591
+        width: 482
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb5cca6418d5e58f0800000000000000
+      internalID: -549899294674729541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnobGlow
+      rect:
+        serializedVersion: 2
+        x: 1645
+        y: 487
+        width: 118
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b544189e08f4ab60800000000000000
+      internalID: 7756597199803532721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Panel Slider
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 455
+        width: 242
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbba32882e24a8590800000000000000
+      internalID: -7671245474558137409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Know Circle
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 457
+        width: 106
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd1e3cbea20f21b50800000000000000
+      internalID: 6562571674167009759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_SpriteSheet_40
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 445
+        width: 828
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a82b00ca455428d30800000000000000
+      internalID: 4432181213251285642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Circle_Knob
+      rect:
+        serializedVersion: 2
+        x: 1535
+        y: 509
+        width: 74
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d8e37363e2788370800000000000000
+      internalID: 8325030232146045142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnobMask
+      rect:
+        serializedVersion: 2
+        x: 1791
+        y: 513
+        width: 72
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f5f75bddae338d50800000000000000
+      internalID: 6738298383906633207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slider
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 369
+        width: 1004
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4172171e85be31e20800000000000000
+      internalID: 3320256117274126100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImageRef
+      rect:
+        serializedVersion: 2
+        x: 1303
+        y: 17
+        width: 728
+        height: 366
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29364b15085d27e80800000000000000
+      internalID: -8182242825875463278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sliderr2
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 317
+        width: 1004
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bab48e89370ca58f0800000000000000
+      internalID: -550916401680331861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slider Mask
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 253
+        width: 1004
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f5cb71148ce37440800000000000000
+      internalID: 4932546068873987572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button Glow
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 125
+        width: 314
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe1b7fa826887e4f0800000000000000
+      internalID: -799520452015312401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mask
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 125
+        width: 482
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e174fe9bc07aafe80800000000000000
+      internalID: -8144013303045208290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_SpriteSheet_49
+      rect:
+        serializedVersion: 2
+        x: 1133
+        y: 173
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49490d8314951cf80800000000000000
+      internalID: -8088085319119760236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button_Plate
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 1760
+        width: 309
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 750b64a3ea8e43100800000000000000
+      internalID: 86950127826546775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_SpriteSheet_0
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 18
+        width: 308
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc1812a0672f2d760800000000000000
+      internalID: 7481308519805845965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 11e3e1828a893cd45ad9de4f65d50c42
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

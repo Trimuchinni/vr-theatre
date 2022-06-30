@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -676653480, guid: d111f6bc56ed34a9ca892a0422896f4f, type: 3}
+  m_Name: INA006
+  m_EditorClassIdentifier: 
+  popUpId: INA006
+  dismiss_popUpIds:
+  - INA005
+  - INA007
+  - INA008
+  - INA009
+  - INA010
+  prefabType: 5
+  behaviourType: 2
+  priority: 6
+  headertext: Reset Pointer
+  headerIconPath: 
+  bodyText: Your ray pointer is away from viewing area.\n\n Point your JioGlass controller
+    forward and hold the highlighted button for one second to recenter.
+  bodyInfoGraphicPath: Art/JG_Controller
+  interactions:
+  - type: 0
+    interactionString: Okay
+    interactionKey: 
+    dismiss: 1
+    showButtonAppearAnimation: 0
+  - type: 3
+    interactionString: 
+    interactionKey: 'Don''t show this again '
+    dismiss: 0
+    showButtonAppearAnimation: 0
+  isAutoClose: 0
+  followBehaviours: 2
+  popUpVisibleDuration: 0
+  transitionData:
+    useCommon: 1
+    startPosition: {x: 0, y: 0, z: 0}
+    targetPosition: {x: 0, y: 0, z: 0}
+    transitionDuration: 0
+    waitDuration: 0

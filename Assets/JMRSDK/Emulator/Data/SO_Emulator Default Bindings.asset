@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 495726453, guid: 39673d13616f37540b9d9521295b12b9, type: 3}
+  m_Name: SO_Emulator Default Bindings
+  m_EditorClassIdentifier: 
+  SELECT_BTN: 106
+  HOME_BTN: 104
+  BACK_BTN: 103
+  FUNCTION_BTN: 107
+  SWIPE_UP: 102
+  SWIPE_DOWN: 118
+  SWIPE_LEFT: 99
+  SWIPE_RIGHT: 98
+  VOICE_BTN: 122

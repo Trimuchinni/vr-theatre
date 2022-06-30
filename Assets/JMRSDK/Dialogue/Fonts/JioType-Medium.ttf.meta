@@ -1,0 +1,25 @@
+fileFormatVersion: 2
+guid: a67c90312fcfff6418175e45d82f5ca6
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: JioType
+  fontNames:
+  - JioType
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 15a0941b0c03361489b65904cd1ce0e6, type: 3}
+  - {fileID: 12800000, guid: 566ed2ab974b0594899b21830a15e49e, type: 3}
+  - {fileID: 12800000, guid: 7107b61d7e385dc41845d95d43753b60, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
